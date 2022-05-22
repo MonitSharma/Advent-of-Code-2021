@@ -12,4 +12,4 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ### All the Python Solutions available
 
-<h2 align="center"><img src="[https://github.com/MonitSharma/MonitSharma/blob/main/giphy.gif](https://github.com/MonitSharma/Advent-of-Code/blob/main/aoc.PNG)"></h2>
+<h2 align="center"><img src="https://github.com/MonitSharma/Advent-of-Code/blob/main/aoc.PNG"></h2>
